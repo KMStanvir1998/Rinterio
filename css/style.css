@@ -2,3 +2,7 @@
 body{
     font-family: "Manrope", sans-serif;
 }
+
+.contact-section{
+    background-image: url(../assets/bg.jpg);
+}
